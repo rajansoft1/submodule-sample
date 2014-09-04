@@ -1,3 +1,6 @@
 [submodule "jquery"]
 	path = jquery
 	url = https://github.com/jquery/jquery.git
+[submodule "ReferralEngine"]
+	path = ReferralEngine
+	url = https://github.com/rajansoft1/ReferralEngine.git
